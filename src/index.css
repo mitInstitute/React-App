@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+.heading{
+    @apply font-semibold text-xl
+}
+.sub-heading{
+    @apply text-sm text-gray-700
+}
